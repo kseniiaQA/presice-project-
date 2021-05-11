@@ -11,7 +11,7 @@
 ### Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
 
-тест-кейс
+тест-кейс https://docs.google.com/spreadsheets/d/1rmSIVrxh6h517mhAtBw1NgjW0x4kDdFbQPgvjby8CjY/edit#gid=206222093
 
 
 
