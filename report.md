@@ -7,13 +7,12 @@
 
 ### В результате тестирования выявлены следующие дефекты:
 
-
+ issue -https://github.com/kseniia-tester/presice-project-/blob/master/test-case.md 
 
 ### Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
 
-тест-кейс
-
+тест-кейс https://github.com/kseniia-tester/presice-project-/blob/master/test-case.md
 
 
 ### В качестве тестовых данных использовались данные из задания
